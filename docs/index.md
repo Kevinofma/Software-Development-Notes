@@ -6,7 +6,7 @@ I’ll check them off here as I complete them.
 - [X] Getting Started  
 - [X] HTTP Concepts  
 - [X] FastAPI and Pydantic Basics  
-- [ ] FastAPI Query Validation and Dynamic Path Validation  
+- [X] FastAPI Query Validation and Dynamic Path Validation  
 - [ ] Service Layer and Dependency Injection  
 - [ ] Introduction into Testing  
 - [ ] TypeScript and Event Driven Programming  

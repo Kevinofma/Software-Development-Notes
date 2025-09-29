@@ -3,7 +3,9 @@ nav:
   - TODO: index.md
   - Getting Started: gettingstarted.md
   - HTTP Basics: httpbasics.md
-  - FastAPI Tutorial: fastapitutorial.md
+  - FastAPI:
+      - Tutorial: fastapitutorial.md
+      - Validation: fastapivalidation.md
 theme:
   icon:
     logo: fontawesome/solid/computer
