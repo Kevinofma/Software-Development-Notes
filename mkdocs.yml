@@ -6,6 +6,8 @@ nav:
   - FastAPI:
       - Tutorial: fastapitutorial.md
       - Validation: fastapivalidation.md
+  - Backend:
+      - Service Layer and Dependency Injection: servicelayerdi.md
 theme:
   icon:
     logo: fontawesome/solid/computer
