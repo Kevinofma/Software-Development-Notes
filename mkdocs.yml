@@ -9,6 +9,7 @@ nav:
   - Backend:
       - Service Layer and Dependency Injection: servicelayerdi.md
       - Introduction to Testing: testing.md
+      - Introduction to CI/CD: cicd.md
 theme:
   icon:
     logo: fontawesome/solid/computer
