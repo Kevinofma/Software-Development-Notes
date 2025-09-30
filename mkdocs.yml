@@ -8,6 +8,7 @@ nav:
       - Validation: fastapivalidation.md
   - Backend:
       - Service Layer and Dependency Injection: servicelayerdi.md
+      - Introduction to Testing: testing.md
 theme:
   icon:
     logo: fontawesome/solid/computer

@@ -8,7 +8,7 @@ I’ll check them off here as I complete them.
 - [X] FastAPI and Pydantic Basics  
 - [X] FastAPI Query Validation and Dynamic Path Validation  
 - [X] Service Layer and Dependency Injection  
-- [ ] Introduction into Testing  
+- [X] Introduction into Testing  
 - [ ] TypeScript and Event Driven Programming  
 - [ ] HTML and CSS  
 - [ ] Angular Introduction  
