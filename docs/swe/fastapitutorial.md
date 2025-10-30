@@ -6,7 +6,7 @@ Pydantic is a library used by FastAPI for data modeling and validation. It is ho
 
 ## Part 1. Starting a FastAPI and Pydantic Project
 
-Before diving in, make sure you've reviewed [Getting Started](index.md). We are going to be following the same steps outlined there with a few tweaks to the dev container and requirements.
+Before diving in, make sure you've reviewed [Getting Started](gettingstarted.md). We are going to be following the same steps outlined there with a few tweaks to the dev container and requirements.
 
 ### Step 1. Setting up the Development Container
 

@@ -1,15 +1,18 @@
 site_name: Software Development Notes
 nav:
-  - TODO: index.md
-  - Getting Started: gettingstarted.md
-  - HTTP Basics: httpbasics.md
-  - FastAPI:
-      - Tutorial: fastapitutorial.md
-      - Validation: fastapivalidation.md
-  - Backend:
-      - Service Layer and Dependency Injection: servicelayerdi.md
-      - Introduction to Testing: testing.md
-      - Introduction to CI/CD: cicd.md
+  - Home: index.md
+  - Software Development Essentials:
+    - Getting Started: swe/gettingstarted.md
+    - HTTP Basics: swe/httpbasics.md
+    - FastAPI:
+        - Tutorial: swe/fastapitutorial.md
+        - Validation: swe/fastapivalidation.md
+    - Backend:
+        - Service Layer and Dependency Injection: swe/servicelayerdi.md
+        - Introduction to Testing: swe/testing.md
+        - Introduction to CI/CD: swe/cicd.md
+  - GigMatcher:
+    - DataLoading: gigmatcher/dataloading.md
 theme:
   icon:
     logo: fontawesome/solid/computer
